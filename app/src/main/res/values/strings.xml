@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheWorld</string>
+    <string name="API_KEY">9d100fadfe724e4e91d8934cec57d42e</string>
+    <string name="NEWS_URL">https://newsapi.org/v2/</string>
+    <string name="HEALTH_CATEGORY">health</string>
+    <string name="SPORT_CATEGORY">sport</string>
+    <string name="BUSINESS_CATEGORY">business</string>
+    <string name="SCIENCE_CATEGORY">science</string>
+    <string name="TECHNOLOGY_CATEGORY">technology</string>
+    <string name="ENTERTAINMENT_CATEGORY">entertainment</string>
+</resources>

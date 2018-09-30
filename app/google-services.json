@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "683244733779",
+    "firebase_url": "https://theworld-1537648106063.firebaseio.com",
+    "project_id": "theworld-1537648106063",
+    "storage_bucket": "theworld-1537648106063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683244733779:android:2cd7fc4586bcaede",
+        "android_client_info": {
+          "package_name": "com.example.muham.capstoneproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683244733779-ik7d7f5jmn2dp77t0if34ja49p90vkic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muham.capstoneproject",
+            "certificate_hash": "a148ae7382092bddb81e63f46554dc577b67dc93"
+          }
+        },
+        {
+          "client_id": "683244733779-1f8no1htkn8avd41ci5ri78d423tl6ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7c1aBH-3kjOAGkBBEl4Yxn1-NDUBgfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683244733779-1f8no1htkn8avd41ci5ri78d423tl6ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683244733779:android:dd3b5c80203ffb40",
+        "android_client_info": {
+          "package_name": "com.example.muham.theworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683244733779-9nfoncaja0d88ujhvuu1mathplm7tqa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muham.theworld",
+            "certificate_hash": "a148ae7382092bddb81e63f46554dc577b67dc93"
+          }
+        },
+        {
+          "client_id": "683244733779-1f8no1htkn8avd41ci5ri78d423tl6ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7c1aBH-3kjOAGkBBEl4Yxn1-NDUBgfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683244733779-1f8no1htkn8avd41ci5ri78d423tl6ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
